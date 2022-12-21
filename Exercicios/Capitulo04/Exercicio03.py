@@ -4,9 +4,6 @@ O programa deverá pegar o numero de pessoas a participar aleatoriamente desta l
 
 import random
 
-
-
-
 def sortear_participante(lista):
     participantes = int(input('Digite o numero de participantes a serem sorteados: '))
     if participantes > len(lista):

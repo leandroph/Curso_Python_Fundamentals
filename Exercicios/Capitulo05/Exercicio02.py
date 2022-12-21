@@ -1,16 +1,3 @@
-'''
-Escreva um programa em python que realize um cadastro. Deverão ser coletadas as
-seguintes informações:
-
-- CPF
-- Nome
-- Idade
-- Sexo
-- Endereço
-
-Os registros deverão ser armazenados em um arquivo CSV. Caso desejar manter o padrão brasileiro, o CSV será separado pelo caractere ;.'''
-
-
 import csv
 
 def cadastrar():

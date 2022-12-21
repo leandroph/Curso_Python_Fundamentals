@@ -1,5 +1,3 @@
-# Implemente uma função de consulta no programa do exercício 2
-
 import csv
 
 def consulta():
